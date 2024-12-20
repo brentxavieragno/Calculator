@@ -7,7 +7,7 @@ A **simple calculator app** built in **Java**, inspired by the modern iOS user i
 - **Modern UI**: Light mode inspired by iOS design principles.
 
 ## Screenshots
-https://postimg.cc/jwjvW3DH
+https://ibb.co/HKXSfJq
 
 ## How to Run
 1. **Clone the Repository**
@@ -30,6 +30,7 @@ https://postimg.cc/jwjvW3DH
 ## Future Improvements
 - Add support for advanced mathematical operations.
 - Implement dark mode.
+- add second display to view current calculation
 - Add memory and history features.
 
 ## License
